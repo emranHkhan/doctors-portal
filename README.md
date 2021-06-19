@@ -8,7 +8,7 @@ A simple website for finding the best doctors in the world!
 
 ## Mainpage
 
-![homepage]('./main1.png')
+![mainpage]('./main1.png')
 
 ## Features
 
