@@ -4,11 +4,11 @@ A simple website for finding the best doctors in the world!
 
 ## Homepage
 
-![homepage]('./home1.png')
+![homepage](./home1.png)
 
 ## Mainpage
 
-![mainpage]('./main1.png')
+![mainpage](./main1.png)
 
 ## Features
 
