@@ -22,8 +22,10 @@ A simple website for finding the best doctors in the world!
 
 ## Run the project
 
-To run this project -
+To run this project on [doctors-portal](http://localhost:3000/) -
 
 `npm install`
+
+And then,
 
 `npm start`
